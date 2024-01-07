@@ -1,8 +1,8 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Strong and weak sides of node.js 👂 heard
+  - Stateful and stateless servers 👂 heard
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
@@ -14,9 +14,9 @@
   - CommonJS modules 🙋 explained
   - ECMAScript modules 🙋 explained
   - node:module 🙋 explained
-  - Caching in CJS and ESM
-  - Modules as singletons
-  - Contexts and scripts node:vm
+  - Caching in CJS and ESM 🎓 known
+  - Modules as singletons 🎓 known
+  - Contexts and scripts node:vm 👂 heard
   - Dependencies: npm, node_modules 🙋 explained
   - Dependencies: package.json and package lock 🙋 explained
   - Module-based permissions model
@@ -24,42 +24,42 @@
   - Dependency injection 👂 heard
   - DI containers 👂 heard
   - Coupling and cohesion
-  - Framework agnostic approach
+  - Framework agnostic approach 👂 heard
 - Environment
   - Command line arguments 🖐️ used
   - Node.js CLI 🖐️ used
   - Process-based permissions
-  - Graceful shutdown
-  - Clustering
-  - Watch filesystem changes with --watch
+  - Graceful shutdown 🖐️ used
+  - Clustering 👂 heard
+  - Watch filesystem changes with --watch 🖐️ used
 - Internal API
-  - Streams API 👂 heard
-  - Web Streams API 👂 heard
+  - Streams API 🖐️ used
+  - Web Streams API 🖐️ used
   - Crypto API
   - Password hashing with node:crypto.scrypt
-  - Web Crypto API 👂 heard
+  - Web Crypto API 🖐️ used
   - File system API: sync and async 🖐️ used
-  - Copy folder recursively
-  - Worker threads
-  - Performance hooks
+  - Copy folder recursively 🖐️ used
+  - Worker threads 👂 heard
+  - Performance hooks 👂 heard
   - Native fetch and nodejs/undici  🖐️ used
-  - node:async_hooks
-  - AsyncLocalStorage
+  - node:async_hooks 👂 heard
+  - AsyncLocalStorage 👂 heard
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
   - Stream back pressure
   - SharedArrayBuffer
   - node:worker_threads
-  - node:child_process
+  - node:child_process 👂 heard
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID 🖐️ used
-  - node:url vs new URL 👂 heard
-  - node:assert 👂 heard
-  - Internationalization
-  - Blob, File, Buffer, node:buffer 👂 heard
-  - Module node:zlib
+  - node:url vs new URL 🖐️ used
+  - node:assert 🖐️ used
+  - Internationalization 🖐️ used
+  - Blob, File, Buffer, node:buffer 🖐️ used
+  - Module node:zlib 🖐️ used
 - Application structure and architecture
   - Isolation between layer
   - Multilayer approach
@@ -82,25 +82,25 @@
   - FaaS clouds
   - Fat controller
   - GoF for Node.js
-  - Leaking abstractions 👂 heard
+  - Leaking abstractions 🖐️ used
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S) 👂 heard
-  - TCP/SSL 👂 heard
+  - HTTP(S) 🖐️ used
+  - TCP/SSL 🖐️ used
   - UDP
   - TLS
-  - Websocket 👂 heard
+  - Websocket 🖐️ used
   - SSE
   - HTTP/3 (QUIC) 👂 heard
   - Long polling
-  - REST 👂 heard
-  - RPC 👂 heard
+  - REST 🖐️ used
+  - RPC 🖐️ used
   - Routing 👂 heard
   - DoS 👂 heard
   - DDoS 👂 heard
   - XSS 👂 heard
-  - Path traversal
+  - Path traversal 👂 heard
   - CSRF
   - DNS
   - Fetch API  🖐️ used 
@@ -113,16 +113,16 @@
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
-  - Logging 👂 heard
-  - Application configuring
+  - Native test runner 🖐️ used
+  - Logging 🖐️ used
+  - Application configuring 🖐️ used https://github.com/doichev-kostia/config-loader
   - Testing 🖐️ used,
   - CI/CD  🚀 constructed
   - Readable 👂 heard
   - Writable 👂 heard
   - Transform 👂 heard
   - back pressure
-  - Buffer 👂 heard
+  - Buffer 🖐️ used
   - Console 🖐️ used
   - Inspector 🖐️ used
   - Reliability
@@ -130,27 +130,27 @@
   - Availability
   - Flexibility
 - Data access
-  - Data access layer
-  - Repository
-  - Active record
-  - Query builder
-  - Object-Relational Mapping  👂 heard
+  - Data access layer 👂 heard
+  - Repository 👂 heard
+  - Active record 👂 heard
+  - Query builder 🖐️ used
+  - Object-Relational Mapping 🖐️ used
 - Error handling and debugging
   - Error 🖐️ used
   - error.cause 🖐️ used
   - error.code 🖐️ used
   - error.message 🖐️ used
   - error.stack 🖐️ used
-  - How to avoid mixins
+  - How to avoid mixins 👂 heard
   - Error.captureStackTrace 🖐️ used
   - Uncaught exceptions 🖐️ used
   - Heap dump 🖐️ used
   - Debugging tools 🖐️ used
   - Flame graph 🖐️ used
-  - Memory leaks
+  - Memory leaks 👂 heard
   - Resource leaks
   - Data race
-- Integrations and bindings
+- Integrations and bindings 👂 heard
   - Native addons
   - C and C++ addons
   - Rust addons
