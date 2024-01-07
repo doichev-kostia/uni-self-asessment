@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
+  - Event loop  🖐️ used
+  - try..catch  🖐️ used
+  - Non-blocking  🖐️ used
+  - Async I/O 👂 heard
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -22,11 +22,11 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks  🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise  🖐️ used
+  - Async/await  🖐️ used
   - Future
   - Deferred
   - Sync generator
@@ -38,19 +38,19 @@
   - Signal
   - Stream
   - Chain of responsibility
-  - Middleware
+  - Middleware  🖐️ used
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
+  - callbackify 
+  - promisify 👂 heard
   - asyncify
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter 👂 heard
   - Observable/Observer
-  - Readable
-  - Writable
+  - Readable 👂 heard
+  - Writable 👂 heard
   - Transform
   - Async Pool
   - Async Queue
@@ -59,24 +59,24 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
+  - Timers  🖐️ used
+  - setImmediate 
   - nextTick
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection
+  - AbortController 👂 heard
+  - AbortSignal 👂 heard
+  - Promise unhandled rejection 👂 heard
   - Promise double resolve
   - child_process
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell  🎓 known
+  - Promise hell  🎓 known
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
   - JSON: streaming serialization
-  - promisify
+  - promisify 🎓 known
   - callbackify
   - AsyncLocalStorage
   - AsyncResource
@@ -84,10 +84,10 @@
   - async.js library
   - RxJS library
   - Async composition
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - Promise.all  🖐️ used
+  - Promise.allSettled  🖐️ used
+  - Promise.race 🎓 known
+  - Promise.any 🎓 known
   - Web Locks API
   - IPC
   - Channel API

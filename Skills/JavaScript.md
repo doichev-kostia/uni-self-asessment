@@ -1,89 +1,89 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
+  - Object 🙋 explained
+  - this 🎓 known
+  - arrow function  🙋 explained
+  - async function  🙋 explained
+  - call  🙋 explained
+  - bind  🙋 explained
+  - apply  🙋 explained
+  - instanceof  🙋 explained
+  - ...spread  🙋 explained
+  - ...rest  🙋 explained
+  - typeof  🙋 explained
+  - destructuring  🙋 explained
+  - generator 👂 heard
+  - iterator 👂 heard
   - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
+  - async iterator 
+  - chaining  🖐️ used
+  - optional chaining  🙋 explained
+  - IIFE  🙋 explained
+  - global 👂 heard
+  - globalThis 👂 heard
+  - window  🖐️ used
+  - getters and setters  🖐️ used
+  - __proto__ 👂 heard
+  - prototype 👂 heard
+  - equality operators  🙋 explained
+  - logical operators  🙋 explained
   - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
+  - ternary operator  🙋 explained
+  - void  🙋 explained
+  - yield  👂 heard
+  - await 🖐️ used
+  - template literal 🙋 explained
   - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
+  - delete  🖐️ used
+  - in  🖐️ used
+  - super  🖐️ used
+  - Symbol  🖐️ used
+  - Reflect 👂 heard
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if 🙋 explained
+  - while 🙋 explained
+  - do..while 🙋 explained
+  - for 🙋 explained
+  - for..in 🙋 explained
+  - for..of 🙋 explained
+  - for await 
+  - throw 🙋 explained
+  - break 🙋 explained
+  - continue 🙋 explained
+  - import 🙋 explained
+  - export 🙋 explained
+  - label 🙋 explained
+  - try..catch 🙋 explained
+  - switch 🙋 explained
+  - class 🙋 explained
+  - new Error 🙋 explained
+  - with 🙋 explained
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration 🙋 explained
+  - function expression 🙋 explained
+  - return 🙋 explained
+  - default parameters 🙋 explained
   - functional object
 - Data structures
-  - Array
+  - Array 🙋 explained
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
+  - Map 🙋 explained
+  - Set 🙋 explained
+  - undefined 🙋 explained
+  - null 🙋 explained
+  - Proxy 👂 heard
   - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - timers  🖐️ used
+  - EventEmitter 👂 heard
+  - RegExp  🖐️ used
+  - Date  🖐️ used
+  - BigInt 👂 heard
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8 👂 heard
+  - Node.js 🖐️ used
+  - npm  🖐️ used
+  - prettier 🖐️ used
+  - MDN 🖐️ used
