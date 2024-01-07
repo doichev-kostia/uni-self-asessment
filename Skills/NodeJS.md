@@ -6,43 +6,43 @@
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
+  - Garbage collection 👂 heard
+  - Node.js LTS schedule 🎓 known
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules 🙋 explained
+  - ECMAScript modules 🙋 explained
+  - node:module 🙋 explained
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules 🙋 explained
+  - Dependencies: package.json and package lock 🙋 explained
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
-  - DI containers
+  - Dependency injection 👂 heard
+  - DI containers 👂 heard
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments 🖐️ used
+  - Node.js CLI 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
-  - Web Streams API
+  - Streams API 👂 heard
+  - Web Streams API 👂 heard
   - Crypto API
   - Password hashing with node:crypto.scrypt
-  - Web Crypto API
-  - File system API: sync and async
+  - Web Crypto API 👂 heard
+  - File system API: sync and async 🖐️ used
   - Copy folder recursively
   - Worker threads
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici  🖐️ used
   - node:async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -54,18 +54,18 @@
   - node:child_process
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID
-  - node:url vs new URL
-  - node:assert
+  - Generating crypto random UUID 🖐️ used
+  - node:url vs new URL 👂 heard
+  - node:assert 👂 heard
   - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Blob, File, Buffer, node:buffer 👂 heard
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer
   - Multilayer approach
   - Separation of concerns
   - Inversion of control
-  - Dependency injection
+  - Dependency injection 👂 heard
   - GRASP
   - SOLID
   - GoF patterns
@@ -78,34 +78,34 @@
   - CQRS
   - Event sourcing
   - Load balancing
-  - Serverless clouds
+  - Serverless clouds 👂 heard
   - FaaS clouds
   - Fat controller
   - GoF for Node.js
-  - Leaking abstractions
+  - Leaking abstractions 👂 heard
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
+  - HTTP(S) 👂 heard
+  - TCP/SSL 👂 heard
   - UDP
   - TLS
-  - Websocket
+  - Websocket 👂 heard
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC) 👂 heard
   - Long polling
-  - REST
-  - RPC
-  - Routing
-  - DoS
-  - DDoS
-  - XSS
+  - REST 👂 heard
+  - RPC 👂 heard
+  - Routing 👂 heard
+  - DoS 👂 heard
+  - DDoS 👂 heard
+  - XSS 👂 heard
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API
+  - Fetch API  🖐️ used 
   - IncomingMessage
-  - SQL injection
+  - SQL injection 👂 heard
   - noDelay
   - keep-alive
   - ALPN
@@ -114,17 +114,17 @@
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging 👂 heard
   - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
-  - Transform
+  - Testing 🖐️ used,
+  - CI/CD  🚀 constructed
+  - Readable 👂 heard
+  - Writable 👂 heard
+  - Transform 👂 heard
   - back pressure
-  - Buffer
-  - Console
-  - Inspector
+  - Buffer 👂 heard
+  - Console 🖐️ used
+  - Inspector 🖐️ used
   - Reliability
   - Quality
   - Availability
@@ -134,19 +134,19 @@
   - Repository
   - Active record
   - Query builder
-  - Object-Relational Mapping
+  - Object-Relational Mapping  👂 heard
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error 🖐️ used
+  - error.cause 🖐️ used
+  - error.code 🖐️ used
+  - error.message 🖐️ used
+  - error.stack 🖐️ used
   - How to avoid mixins
-  - Error.captureStackTrace
-  - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
-  - Flame graph
+  - Error.captureStackTrace 🖐️ used
+  - Uncaught exceptions 🖐️ used
+  - Heap dump 🖐️ used
+  - Debugging tools 🖐️ used
+  - Flame graph 🖐️ used
   - Memory leaks
   - Resource leaks
   - Data race
