@@ -37,19 +37,19 @@
   - lambda expression 🖐️ used
   - side effects 🖐️ used
   - closure 🖐️ used
-  - partial application 
-  - curry
-  - higher order
+  - partial application 🎓 known
+  - curry 🖐️ used
+  - higher order 🎓 known
   - recursion 👂 heard
   - callback 🖐️ used
   - listener 🖐️ used
-  - compose
-  - pipe
+  - compose 🖐️ used
+  - pipe 🖐️ used
   - memoize
   - wrapper
   - functor
-  - monad
-  - monoid
+  - monad 🖐️ used
+  - monoid 👂 heard
   - generator
   - coroutine
 - Data structures
@@ -63,20 +63,20 @@
   - collection 🖐️ used
   - set 🖐️ used
   - hash table
-  - linked list 👂 heard
-  - doubly list 👂 heard
+  - linked list 🚀 constructed
+  - doubly list 🚀 constructed
   - unrolled list
   - circular list
-  - queue 👂 heard
-  - stack 👂 heard
-  - deque 👂 heard
+  - queue 🚀 constructed
+  - stack 🚀 constructed
+  - deque 🚀 constructed
   - tree 👂 heard
   - graph 👂 heard
-  - iterator 👂 heard
-  - mutable state 👂 heard
-  - immutable state 👂 heard
-  - serialization 👂 heard
-  - string parsing 👂 heard
+  - iterator 🚀 constructed
+  - mutable state 🖐️ used
+  - immutable state 🖐️ used
+  - serialization 🖐️ used
+  - string parsing 🖐️ used
 - Process & style
   - compiler 🖐️ used
   - transpiler 🖐️ used
@@ -92,7 +92,7 @@
   - magic numbers 🎓 known
   - hardcode 🎓 known
   - complexity 👂 heard
-  - decomposition
+  - decomposition 👂 heard
   - spaghetti 👂 heard
   - silver bullet 👂 heard
   - not invented here

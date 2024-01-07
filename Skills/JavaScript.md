@@ -47,7 +47,7 @@
   - for 🙋 explained
   - for..in 🙋 explained
   - for..of 🙋 explained
-  - for await 
+  - for await 🙋 explained
   - throw 🙋 explained
   - break 🙋 explained
   - continue 🙋 explained
@@ -69,7 +69,7 @@
   - Array 🙋 explained
   - mixin
   - extend
-  - typed arrays
+  - typed arrays 🖐️ used
   - Map 🙋 explained
   - Set 🙋 explained
   - undefined 🙋 explained
